@@ -58,12 +58,10 @@ These features make the ATMEGA328P-AU microcontroller board a versatile platform
 
 ## Requirements
 
-- [List any hardware or software requirements here.]
-
+To be used with Arduino IDE where you connected using USB 2.0 Type A Male to Type B Male Power Data Transmission Cable.
+Select the Board and Make sure it's reading by double check the COM-
 ## Installation
-
-[Provide installation instructions here if applicable.]
-
+Plug in with Computer 5v or 3v3. Then configure using the Arduino IDE.
 ## Usage
 
 # ATMEGA328P-AU Microcontroller Board Applications
@@ -115,21 +113,16 @@ These examples showcase the versatility of the ATMEGA328P-AU microcontroller boa
 
 ## Contributing
 
-[Explain how others can contribute to this project, including guidelines for submitting pull requests or reporting issues.]
-
+You can contribute to this design , its a dev version and you're welconme to learn / develop. 
 ## Troubleshooting
 
-[Include information on common issues users might encounter and how to resolve them.]
 
-## License
-
-[Specify the license under which your project is distributed. You can use a tool like [Choose a License](https://choosealicense.com/) to help you choose a suitable license.]
+# License#
+N/A
 
 ## Contact Information
 
-[Provide your contact information or ways for users to reach out for support or questions.]
-
+eemahdis@gmail.com
 ## Acknowledgments
 
-[If you want to acknowledge individuals, organizations, or tools/libraries that have contributed to your project, you can list them here.]
-
+I would like to thank A.nouman for the support. 
